@@ -30,7 +30,7 @@
 		"execa": "5.1.1",
 		"minimist": "1.2.5",
 		"remotion": "2.6.9",
-		"semver": "7.3.5",
+		"semver": "7.5.2",
 		"webpack": "5.60.0"
 	},
 	"peerDependencies": {
